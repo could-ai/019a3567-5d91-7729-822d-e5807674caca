@@ -1,6 +1,6 @@
-# couldai_user_app
+# EW
 
-A new Flutter project.
+A powerful video and picture editing application, similar to CapCut.
 
 ## Getting Started
 
